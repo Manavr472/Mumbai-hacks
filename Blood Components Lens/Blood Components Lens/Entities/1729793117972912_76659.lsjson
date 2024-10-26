@@ -1,0 +1,22 @@
+{
+    "1729793117972912:76659": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729793118597980:76943",
+            "resources": [
+                "1729793117978050:76661"
+            ]
+        }
+    },
+    "1729793118597980:76943": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/new_platelet/Materials"
+            }
+        }
+    }
+}

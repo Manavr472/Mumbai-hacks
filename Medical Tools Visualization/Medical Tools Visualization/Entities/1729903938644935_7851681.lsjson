@@ -1,0 +1,30 @@
+{
+    "1729903938644935:7851681": {
+        "IResourceController": {
+            "name": "needle_syringe",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729903938644657:7851645",
+            "fileId": "1729903938673981:7851725",
+            "originalId": "1729904807557038:8213929",
+            "expected_hash": "7709969b6f13262bab401ec7a8e9af95"
+        },
+        "IResourceManager": {
+            "uid": "1729903938644657:7851645",
+            "name": "needle_syringe",
+            "flags": 0
+        }
+    },
+    "1729903938673981:7851725": {
+        "IFileManager": {
+            "path": "Files/File_1729903938673981_7851725.oprfb"
+        }
+    },
+    "1729904807557038:8213929": {
+        "IFileManager": {
+            "path": "Files/File_1729904807557038_8213929.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1729903857741175:7768674": {
+        "IFileManager": {
+            "path": "Files/File_1729903857741175_7768674"
+        }
+    },
+    "1729903857744609:7768675": {
+        "IResourceController": {
+            "name": "aussen",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729903857744616:7768676",
+            "fileId": "1729903857741175:7768674",
+            "originalId": "1729903857767415:7768682",
+            "publicId": "1729903858895577:7769120",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1729903857744616:7768676",
+            "name": "Files/File_1729903857741175_7768674",
+            "flags": 1
+        }
+    },
+    "1729903857767415:7768682": {
+        "IFileManager": {
+            "path": "Files/File_1729903857767415_7768682.lsmat"
+        }
+    },
+    "1729903858895577:7769120": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Info Card [DELETE_ME]/needle_syringe/Materials/aussen.lsmat",
+                "hash": "02e17b140721c5a923741c1077510526"
+            }
+        }
+    }
+}

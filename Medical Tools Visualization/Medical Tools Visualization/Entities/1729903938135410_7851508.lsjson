@@ -1,0 +1,39 @@
+{
+    "1729903938132022:7851507": {
+        "IFileManager": {
+            "path": "Files/File_1729903938132022_7851507"
+        }
+    },
+    "1729903938135410:7851508": {
+        "IResourceController": {
+            "name": "innen",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729903938135416:7851509",
+            "fileId": "1729903938132022:7851507",
+            "originalId": "1729903938159244:7851515",
+            "publicId": "1729903938763884:7851749",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1729903938135416:7851509",
+            "name": "Files/File_1729903938132022_7851507",
+            "flags": 1
+        }
+    },
+    "1729903938159244:7851515": {
+        "IFileManager": {
+            "path": "Files/File_1729903938159244_7851515.lsmat"
+        }
+    },
+    "1729903938763884:7851749": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/needle_syringe/Materials/innen.lsmat",
+                "hash": "130dc691dc67564d68c17640da1fbc1c"
+            }
+        }
+    }
+}

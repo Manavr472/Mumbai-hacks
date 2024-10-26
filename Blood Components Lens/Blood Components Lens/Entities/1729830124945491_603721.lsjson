@@ -1,0 +1,38 @@
+{
+    "1729830124940994:603720": {
+        "IFileManager": {
+            "path": "Files/File_1729830124940994_603720.js"
+        }
+    },
+    "1729830124945491:603721": {
+        "IResourceController": {
+            "name": "TweenColorFrom",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830124945519:603722",
+            "fileId": "1729830124940994:603720",
+            "publicId": "1729830124955974:603732",
+            "expected_hash": "f0abab556ef850bc9d636d664f11b854"
+        },
+        "IResourceManager": {
+            "uid": "1729830124945519:603722",
+            "name": "Files/File_1729830124940994_603720.js",
+            "flags": 1
+        }
+    },
+    "1729830124945519:603722": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830124955974:603732": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Color/TweenColorFrom.js",
+                "hash": "f0abab556ef850bc9d636d664f11b854"
+            }
+        }
+    }
+}

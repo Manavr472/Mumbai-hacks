@@ -1,0 +1,38 @@
+{
+    "1729830124698349:603477": {
+        "IFileManager": {
+            "path": "Files/File_1729830124698349_603477.js"
+        }
+    },
+    "1729830124702890:603478": {
+        "IResourceController": {
+            "name": "CircularFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830124702909:603479",
+            "fileId": "1729830124698349:603477",
+            "publicId": "1729830124715372:603495",
+            "expected_hash": "7994ac4fbbfb23e632f1195fcc089c6d"
+        },
+        "IResourceManager": {
+            "uid": "1729830124702909:603479",
+            "name": "Files/File_1729830124698349_603477.js",
+            "flags": 1
+        }
+    },
+    "1729830124702909:603479": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830124715372:603495": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/CircularFunc.js",
+                "hash": "7994ac4fbbfb23e632f1195fcc089c6d"
+            }
+        }
+    }
+}

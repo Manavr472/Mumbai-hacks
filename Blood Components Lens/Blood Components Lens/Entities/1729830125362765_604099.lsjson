@@ -1,0 +1,44 @@
+{
+    "1729830125356276:604098": {
+        "IFileManager": {
+            "path": "Files/File_1729830125356276_604098"
+        }
+    },
+    "1729830125362765:604099": {
+        "IResourceController": {
+            "name": "All Tween Nodes",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830125362818:604100",
+            "fileId": "1729830125356276:604098",
+            "originalId": "1729830125363189:604104",
+            "publicId": "1729830125383090:604112",
+            "expected_hash": "988e58259c5a4401aa04244e3b6a9ffc"
+        },
+        "IResourceManager": {
+            "uid": "1729830125362818:604100",
+            "name": "Files/File_1729830125356276_604098",
+            "flags": 1
+        }
+    },
+    "1729830125362818:604100": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830125363189:604104": {
+        "IFileManager": {
+            "path": "Files/File_1729830125363189_604104.lsscript"
+        }
+    },
+    "1729830125383090:604112": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/All Tween Nodes.lsscript",
+                "hash": "58d1518609bd361631196fec09f450a8"
+            }
+        }
+    }
+}

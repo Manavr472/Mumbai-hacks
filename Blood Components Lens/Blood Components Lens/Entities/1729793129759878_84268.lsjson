@@ -1,0 +1,30 @@
+{
+    "1729793129759878:84268": {
+        "IResourceController": {
+            "name": "WBC",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729793129759660:84250",
+            "fileId": "1729793129796398:84282",
+            "originalId": "1729799089192088:1332069",
+            "expected_hash": "f8bc08de8958acb898753735a0c49483"
+        },
+        "IResourceManager": {
+            "uid": "1729793129759660:84250",
+            "name": "WBC",
+            "flags": 0
+        }
+    },
+    "1729793129796398:84282": {
+        "IFileManager": {
+            "path": "Files/File_1729793129796398_84282.oprfb"
+        }
+    },
+    "1729799089192088:1332069": {
+        "IFileManager": {
+            "path": "Files/File_1729799089192088_1332069.oprfb"
+        }
+    }
+}

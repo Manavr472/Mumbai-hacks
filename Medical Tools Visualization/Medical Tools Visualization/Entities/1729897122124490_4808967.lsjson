@@ -1,0 +1,48 @@
+{
+    "1729897122124490:4808967": {
+        "IResourceController": {
+            "name": "scene",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729897124079979:4809429",
+            "publicId": "1729897124104543:4809432",
+            "expected_hash": "bc52cb9e4a63c72cb5b6995b01f3e85f",
+            "resources": [
+                "1729897123604355:4809206",
+                "1729897123631546:4809227",
+                "1729897124044276:4809403"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1729897123635663:4809230"
+                    }
+                ]
+            }
+        }
+    },
+    "1729897124079979:4809429": {
+        "IFileManager": {
+            "path": "Files/File_1729897124079979_4809429.gltf"
+        }
+    },
+    "1729897124104543:4809432": {
+        "IResourceController": {
+            "public": {
+                "path": "scene.gltf",
+                "hash": "bc52cb9e4a63c72cb5b6995b01f3e85f"
+            }
+        }
+    }
+}

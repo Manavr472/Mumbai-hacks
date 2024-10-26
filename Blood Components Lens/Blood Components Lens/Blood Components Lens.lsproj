@@ -1,0 +1,656 @@
+{
+    "lens_id": "",
+    "document_id": "sb0Un-B01pLUan-EAMPy",
+    "original_document_id": "sb0Un-B01pLUan-EAMPy",
+    "version": "33",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "55",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "55",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            },
+            "mapCurrentCity": "0"
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Blood Components",
+            "applicability": "3",
+            "compatibility_descriptors": [
+                "mobile",
+                "web"
+            ],
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "activation_camera": "rear",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "input_stream_type": "Image",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Co-Located\/indoor.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Hand Gestures.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1729793749250068:195152",
+                    "v": "AcbWuKZQpWVkTUPyAIFhg"
+                },
+                {
+                    "k": "1729794990007590:329744",
+                    "v": "4QWLBN3jGLhsGcGjGsc7GR"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1729793205677342:97469",
+                        "v": {
+                            "prefab": "1729793118529843:76884",
+                            "mapping": [
+                                {
+                                    "k": "1729793118513251:76779",
+                                    "v": "1729793205677342:97469"
+                                },
+                                {
+                                    "k": "1729793118514285:76781",
+                                    "v": "1729793205679690:97477"
+                                },
+                                {
+                                    "k": "1729793118514764:76783",
+                                    "v": "1729793205679986:97479"
+                                },
+                                {
+                                    "k": "1729793118519349:76812",
+                                    "v": "1729793205687541:97504"
+                                },
+                                {
+                                    "k": "1729793118519685:76814",
+                                    "v": "1729793205687933:97506"
+                                },
+                                {
+                                    "k": "1729793118527828:76871",
+                                    "v": "1729793205696500:97564"
+                                },
+                                {
+                                    "k": "1729793118528185:76873",
+                                    "v": "1729793205696758:97566"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1729793292874564:116965",
+                        "v": {
+                            "prefab": "1729793122369884:80288",
+                            "mapping": [
+                                {
+                                    "k": "1729793122346438:80149",
+                                    "v": "1729793292874564:116965"
+                                },
+                                {
+                                    "k": "1729793122347404:80151",
+                                    "v": "1729793292875243:116975"
+                                },
+                                {
+                                    "k": "1729793122347681:80153",
+                                    "v": "1729793292875481:116977"
+                                },
+                                {
+                                    "k": "1729793122351337:80177",
+                                    "v": "1729793292881553:117002"
+                                },
+                                {
+                                    "k": "1729793122351619:80179",
+                                    "v": "1729793292886150:117065"
+                                },
+                                {
+                                    "k": "1729793122360064:80236",
+                                    "v": "1729793292894470:117128"
+                                },
+                                {
+                                    "k": "1729793122360500:80238",
+                                    "v": "1729793292894853:117130"
+                                },
+                                {
+                                    "k": "1729793122362088:80249",
+                                    "v": "1729793292896468:117144"
+                                },
+                                {
+                                    "k": "1729793122362493:80251",
+                                    "v": "1729793292896801:117146"
+                                },
+                                {
+                                    "k": "1729793122367493:80275",
+                                    "v": "1729793292901039:117171"
+                                },
+                                {
+                                    "k": "1729793122367978:80277",
+                                    "v": "1729793292901410:117173"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1729793527538811:155849",
+                        "v": {
+                            "prefab": "1729793129759660:84250",
+                            "mapping": [
+                                {
+                                    "k": "1729793129729387:84145",
+                                    "v": "1729793527538811:155849"
+                                },
+                                {
+                                    "k": "1729793129738501:84147",
+                                    "v": "1729793527539374:155853"
+                                },
+                                {
+                                    "k": "1729793129739158:84150",
+                                    "v": "1729793527539594:155855"
+                                },
+                                {
+                                    "k": "1729793129744476:84178",
+                                    "v": "1729793527543586:155880"
+                                },
+                                {
+                                    "k": "1729793129744986:84180",
+                                    "v": "1729793527548014:155943"
+                                },
+                                {
+                                    "k": "1729793129757340:84237",
+                                    "v": "1729793527555320:156006"
+                                },
+                                {
+                                    "k": "1729793129757825:84239",
+                                    "v": "1729793527555720:156008"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1729793118529843:76884",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1729793118513251:76779"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1729793118519349:76812"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1729793118519685:76814"
+                        },
+                        {
+                            "k": [
+                                "Cube"
+                            ],
+                            "v": "1729793118527828:76871"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1729793118528185:76873"
+                        },
+                        {
+                            "k": [
+                                "Light"
+                            ],
+                            "v": "1729793118514285:76781"
+                        },
+                        {
+                            "k": [
+                                "Light",
+                                "Component.LightSource"
+                            ],
+                            "v": "1729793118514764:76783"
+                        }
+                    ]
+                },
+                {
+                    "k": "1729793122369884:80288",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1729793122346438:80149"
+                        },
+                        {
+                            "k": [
+                                "Actual RBC"
+                            ],
+                            "v": "1729793122360064:80236"
+                        },
+                        {
+                            "k": [
+                                "Actual RBC",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1729793122360500:80238"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1729793122351337:80177"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1729793122351619:80179"
+                        },
+                        {
+                            "k": [
+                                "Light"
+                            ],
+                            "v": "1729793122347404:80151"
+                        },
+                        {
+                            "k": [
+                                "Light",
+                                "Component.LightSource"
+                            ],
+                            "v": "1729793122347681:80153"
+                        },
+                        {
+                            "k": [
+                                "RBC Sample 1"
+                            ],
+                            "v": "1729793122367493:80275"
+                        },
+                        {
+                            "k": [
+                                "RBC Sample 1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1729793122367978:80277"
+                        },
+                        {
+                            "k": [
+                                "Sun"
+                            ],
+                            "v": "1729793122362088:80249"
+                        },
+                        {
+                            "k": [
+                                "Sun",
+                                "Component.LightSource"
+                            ],
+                            "v": "1729793122362493:80251"
+                        }
+                    ]
+                },
+                {
+                    "k": "1729793129759660:84250",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1729793129729387:84145"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1729793129744476:84178"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1729793129744986:84180"
+                        },
+                        {
+                            "k": [
+                                "Light"
+                            ],
+                            "v": "1729793129738501:84147"
+                        },
+                        {
+                            "k": [
+                                "Light",
+                                "Component.LightSource"
+                            ],
+                            "v": "1729793129739158:84150"
+                        },
+                        {
+                            "k": [
+                                "Sphere"
+                            ],
+                            "v": "1729793129757340:84237"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1729793129757825:84239"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "2"
+        },
+        "ScriptModulesController": ""
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.55.1"
+}

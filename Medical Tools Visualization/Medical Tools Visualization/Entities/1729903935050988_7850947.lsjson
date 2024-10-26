@@ -1,0 +1,55 @@
+{
+    "1729903935050988:7850947": {
+        "IResourceController": {
+            "name": "needle_syringe",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729903938700653:7851731",
+            "publicId": "1729903938757987:7851746",
+            "expected_hash": "1e2d59839a3020d02c312148c0fc1f7f",
+            "resources": [
+                "1729903937474089:7851328",
+                "1729903937537663:7851364",
+                "1729903937538093:7851376",
+                "1729903938644935:7851681"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "aussen",
+                        "v": "1729903937542256:7851379"
+                    },
+                    {
+                        "k": "innen",
+                        "v": "1729903938135416:7851509"
+                    }
+                ]
+            }
+        }
+    },
+    "1729903938700653:7851731": {
+        "IFileManager": {
+            "path": "Files/File_1729903938700653_7851731.fbx"
+        }
+    },
+    "1729903938757987:7851746": {
+        "IResourceController": {
+            "public": {
+                "path": "needle_syringe.fbx",
+                "hash": "1e2d59839a3020d02c312148c0fc1f7f"
+            }
+        }
+    }
+}

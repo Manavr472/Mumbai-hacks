@@ -1,0 +1,33 @@
+{
+    "1729794989327313:329630": {
+        "IFileManager": {
+            "path": "Files/File_1729794989327313_329630.ttf"
+        }
+    },
+    "1729794989333152:329632": {
+        "IResourceController": {
+            "name": "Lato-Bold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729794989333168:329633",
+            "fileId": "1729794989327313:329630",
+            "publicId": "1729794989365852:329648",
+            "expected_hash": "85d339d916479f729938d2911b85bf1f"
+        },
+        "IResourceManager": {
+            "uid": "1729794989333168:329633",
+            "name": "Files/File_1729794989327313_329630.ttf",
+            "flags": 1
+        }
+    },
+    "1729794989365852:329648": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Fonts/Lato-Bold.ttf",
+                "hash": "85d339d916479f729938d2911b85bf1f"
+            }
+        }
+    }
+}

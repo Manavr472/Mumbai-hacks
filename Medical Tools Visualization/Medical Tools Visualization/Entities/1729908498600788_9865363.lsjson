@@ -1,0 +1,30 @@
+{
+    "1729908498600788:9865363": {
+        "IResourceController": {
+            "name": "ARM_3st",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729908498600745:9865360",
+            "fileId": "1729908498625285:9865370",
+            "originalId": "1729908589693368:10003497",
+            "expected_hash": "f82eff0b7fa0f13c9e8556d7a9b982d6"
+        },
+        "IResourceManager": {
+            "uid": "1729908498600745:9865360",
+            "name": "ARM_3st.fbx_Collection",
+            "flags": 0
+        }
+    },
+    "1729908498625285:9865370": {
+        "IFileManager": {
+            "path": "Files/File_1729908498625285_9865370.oprfb"
+        }
+    },
+    "1729908589693368:10003497": {
+        "IFileManager": {
+            "path": "Files/File_1729908589693368_10003497.oprfb"
+        }
+    }
+}

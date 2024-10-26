@@ -1,0 +1,22 @@
+{
+    "1729897123631546:4809227": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729897124105318:4809433",
+            "resources": [
+                "1729897123635657:4809229"
+            ]
+        }
+    },
+    "1729897124105318:4809433": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/scene/Materials"
+            }
+        }
+    }
+}

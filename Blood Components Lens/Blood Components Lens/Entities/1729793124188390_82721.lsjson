@@ -1,0 +1,44 @@
+{
+    "1729793124188390:82721": {
+        "IResourceController": {
+            "name": "WBC",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729793129810590:84288",
+            "publicId": "1729793130282009:84356",
+            "expected_hash": "0f4e65d25ed9114bdf4f29dbbf236347",
+            "resources": [
+                "1729793129675460:84122",
+                "1729793129759878:84268"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1729793129810590:84288": {
+        "IFileManager": {
+            "path": "Files/File_1729793129810590_84288.fbx"
+        }
+    },
+    "1729793130282009:84356": {
+        "IResourceController": {
+            "public": {
+                "path": "WBC.fbx",
+                "hash": "0f4e65d25ed9114bdf4f29dbbf236347"
+            }
+        }
+    }
+}

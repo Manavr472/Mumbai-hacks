@@ -1,0 +1,33 @@
+{
+    "1729887205049445:1095195": {
+        "IFileManager": {
+            "path": "Files/File_1729887205049445_1095195.ttf"
+        }
+    },
+    "1729887205054116:1095196": {
+        "IResourceController": {
+            "name": "Lato-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729887205054137:1095197",
+            "fileId": "1729887205049445:1095195",
+            "publicId": "1729887205064494:1095209",
+            "expected_hash": "2d36b1a925432bae7f3c53a340868c6e"
+        },
+        "IResourceManager": {
+            "uid": "1729887205054137:1095197",
+            "name": "Files/File_1729887205049445_1095195.ttf",
+            "flags": 1
+        }
+    },
+    "1729887205064494:1095209": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Fonts/Lato-Regular.ttf",
+                "hash": "2d36b1a925432bae7f3c53a340868c6e"
+            }
+        }
+    }
+}

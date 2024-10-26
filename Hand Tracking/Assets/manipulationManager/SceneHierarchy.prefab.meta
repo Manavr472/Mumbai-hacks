@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/df46fce2-8584-4605-9687-89e5676ca05c>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 1ae16267-bcb7-40d1-88b1-a99dbff5e4b9
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 1ae16267-bcb7-40d1-88b1-a99dbff5e4b9
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> c866081c-d66d-4c88-9b0f-52dd2ae34e94
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/84e00a59-8833-4877-9f77-28beb2d33204>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/8df99af5-7b28-4695-aad2-7fe12e7d4549>
+  PrefabRemaps:
+    []
+  Name: manipulationManager
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f184234c-11bf-4944-9f10-1f92288ee4a6
+- !<ObjectPrefabAssetData/c866081c-d66d-4c88-9b0f-52dd2ae34e94>
+  SourceRemaps:
+    - b6ef8713-c6be-4abe-8a99-fa88cab82445: f184234c-11bf-4944-9f10-1f92288ee4a6
+    - f20d23d2-b94d-43cd-878d-00d854078a56: 8df99af5-7b28-4695-aad2-7fe12e7d4549
+  SourceState: !<own> e9f8446d-5321-49cf-b2d7-8a7d61d787f7
+- !<ObjectPrefab/e9f8446d-5321-49cf-b2d7-8a7d61d787f7>
+  PackagePath: ""
+  objects:
+    - !<own> 8df99af5-7b28-4695-aad2-7fe12e7d4549
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/f184234c-11bf-4944-9f10-1f92288ee4a6>
+  PrefabRemaps:
+    []
+  Name: manipulationManager
+  Enabled: true
+  ScriptAsset: !<reference> 9024184d-16c1-4c90-b92f-0ccad0342906
+  ScriptInputsDefault:
+    maxScale: true
+    minScale: true
+    maxDistance: true
+    movementSpeed: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      maxScale: 1.500000
+      minScale: 0.500000
+      maxDistance: !<float> 30.000000
+      movementSpeed: 0.100000
+  ScriptTypes:
+    "":
+      {}

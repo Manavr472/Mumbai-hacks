@@ -1,0 +1,39 @@
+{
+    "1729886971712259:1054395": {
+        "IFileManager": {
+            "path": "Files/File_1729886971712259_1054395"
+        }
+    },
+    "1729886971715467:1054396": {
+        "IResourceController": {
+            "name": "Tube",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729886971715473:1054397",
+            "fileId": "1729886971712259:1054395",
+            "originalId": "1729886971736330:1054406",
+            "publicId": "1729886972260293:1054801",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1729886971715473:1054397",
+            "name": "Files/File_1729886971712259_1054395",
+            "flags": 1
+        }
+    },
+    "1729886971736330:1054406": {
+        "IFileManager": {
+            "path": "Files/File_1729886971736330_1054406.lsmat"
+        }
+    },
+    "1729886972260293:1054801": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Stethoscope Curled Up/Materials/Tube.lsmat",
+                "hash": "96ba7400c40d1b9bd18457f009099d86"
+            }
+        }
+    }
+}

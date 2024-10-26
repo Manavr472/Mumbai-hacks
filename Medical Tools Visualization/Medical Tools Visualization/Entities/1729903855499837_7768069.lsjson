@@ -1,0 +1,55 @@
+{
+    "1729903855499837:7768069": {
+        "IResourceController": {
+            "name": "needle_syringe",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729903858831924:7769103",
+            "publicId": "1729903858890648:7769118",
+            "expected_hash": "1e2d59839a3020d02c312148c0fc1f7f",
+            "resources": [
+                "1729903857685517:7768619",
+                "1729903857739502:7768661",
+                "1729903857740010:7768673",
+                "1729903858781899:7769046"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "aussen",
+                        "v": "1729903857744616:7768676"
+                    },
+                    {
+                        "k": "innen",
+                        "v": "1729903858328607:7768851"
+                    }
+                ]
+            }
+        }
+    },
+    "1729903858831924:7769103": {
+        "IFileManager": {
+            "path": "Files/File_1729903858831924_7769103.fbx"
+        }
+    },
+    "1729903858890648:7769118": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/needle_syringe.fbx",
+                "hash": "1e2d59839a3020d02c312148c0fc1f7f"
+            }
+        }
+    }
+}

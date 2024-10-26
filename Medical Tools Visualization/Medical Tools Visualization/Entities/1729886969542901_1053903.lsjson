@@ -1,0 +1,54 @@
+{
+    "1729886969542901:1053903": {
+        "IResourceController": {
+            "name": "Stethoscope Curled Up",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729886972187880:1054777",
+            "publicId": "1729886972254455:1054798",
+            "expected_hash": "d213a292f36168415b919b6566a8ed20",
+            "resources": [
+                "1729886971152910:1054205",
+                "1729886971280998:1054289",
+                "1729886972149540:1054725"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Parts",
+                        "v": "1729886971284958:1054292"
+                    },
+                    {
+                        "k": "Tube",
+                        "v": "1729886971715473:1054397"
+                    }
+                ]
+            }
+        }
+    },
+    "1729886972187880:1054777": {
+        "IFileManager": {
+            "path": "Files/File_1729886972187880_1054777.fbx"
+        }
+    },
+    "1729886972254455:1054798": {
+        "IResourceController": {
+            "public": {
+                "path": "Stethoscope Curled Up.fbx",
+                "hash": "d213a292f36168415b919b6566a8ed20"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1729897183384505:4868283": {
+        "IResourceController": {
+            "name": "Hand_Physics__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897183384456:4868280",
+            "fileId": "1729897183443905:4868297",
+            "originalId": "1729897480126139:5125981",
+            "publicId": "1729897184374685:4869303",
+            "expected_hash": "6fd3a6fbd13a7d7a6ffbfd77d46fce26"
+        },
+        "IResourceManager": {
+            "uid": "1729897183384456:4868280",
+            "name": "sceneObject_314",
+            "flags": 0
+        }
+    },
+    "1729897183443905:4868297": {
+        "IFileManager": {
+            "path": "Files/File_1729897183443905_4868297.oprfb"
+        }
+    },
+    "1729897184374685:4869303": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand_Physics__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "6e7cfcaf7311cc44776f53361d66e07a"
+            }
+        }
+    },
+    "1729897480126139:5125981": {
+        "IFileManager": {
+            "path": "Files/File_1729897480126139_5125981.oprfb"
+        }
+    }
+}

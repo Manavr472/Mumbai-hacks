@@ -1,0 +1,17 @@
+{
+    "1729903937537676:7851366": {
+        "IResourceController": {
+            "name": "innen",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729903937537672:7851365"
+        },
+        "IResourceManager": {
+            "uid": "1729903937537672:7851365",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

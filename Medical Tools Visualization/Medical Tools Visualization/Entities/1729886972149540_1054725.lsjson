@@ -1,0 +1,30 @@
+{
+    "1729886972149540:1054725": {
+        "IResourceController": {
+            "name": "Stethoscope Curled Up",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729886972149178:1054613",
+            "fileId": "1729886972172311:1054771",
+            "originalId": "1729888474228166:1378907",
+            "expected_hash": "bcc7ea3ac794ef57d32d6f1f543650ab"
+        },
+        "IResourceManager": {
+            "uid": "1729886972149178:1054613",
+            "name": "Stethoscope Curled Up",
+            "flags": 0
+        }
+    },
+    "1729886972172311:1054771": {
+        "IFileManager": {
+            "path": "Files/File_1729886972172311_1054771.oprfb"
+        }
+    },
+    "1729888474228166:1378907": {
+        "IFileManager": {
+            "path": "Files/File_1729888474228166_1378907.oprfb"
+        }
+    }
+}

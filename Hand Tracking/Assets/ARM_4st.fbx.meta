@@ -1,0 +1,248 @@
+- !<AssetImportMetadata/50d69891-84c3-42ba-82a1-7b38928dd883>
+  ImportedAssetIds:
+    .hidden/Material.002: !<reference> 03051c51-337d-4f36-a537-ddf50a30c2ce
+    .hidden/white: !<reference> 97485998-d863-4d34-b6ba-d57dd7dfde82
+    16348449195b31ac: !<reference> 2e77876f-cc07-46c1-bf1e-3913df516dfc
+    57de332bbef8ee44: !<reference> 792dbe1c-f955-439e-915a-f99708101827
+    7a0dd5cd69df73fa: !<reference> 1349ea46-6814-457b-952e-bcb3191ed137
+    834c1a777b9009bf: !<reference> a878cb3d-9201-42a8-af69-bd257ea7e11c
+    Materials/Material.002: !<reference> c976c5ef-a6d3-4faf-9583-3e9a80def576
+    Materials/Material.002|Material.002|GraphPassInfo: !<reference> 1ecc1b5c-75e5-4877-a390-310bb78a7526
+    Materials/Material.005: !<reference> b5576374-8559-4a35-8a62-e4eb208e8310
+    Materials/Material.005|Material.005|GraphPassInfo: !<reference> 662bf12b-b0c6-4383-aa72-21d6d8b2a8ad
+    Materials/lambert2SG.001: !<reference> e08a8737-6dbb-4ffb-8530-0f67cf8ed551
+    Materials/lambert2SG.001|lambert2SG.001|GraphPassInfo: !<reference> 7bb86c1c-4940-46aa-91da-04bba729091c
+    Meshes/BézierCurve.001: !<reference> 3dbc18dc-ccd8-453b-ae6f-26b70391f402
+    Meshes/BézierCurve.003: !<reference> 3896e0db-0562-4199-993a-dafa19f3b14a
+    Meshes/defaultMaterial.001: !<reference> 4291b99c-a95f-43ab-bfb3-1060eda8aa0d
+    Scene: !<reference> d7df529a-d799-4ed2-92a5-d899126ae5ea
+    d647a7a6eb1ae270: !<reference> 9d1f1771-646e-4e2a-b081-496425480584
+    d81fa9d61a17f34a: !<reference> f76db6d0-d63d-4c7d-ba89-c197197417de
+    d93b918331b07873: !<reference> 66f3e9d6-85eb-4927-8fad-cee293dca197
+    e8340e24d81ca332: !<reference> 732d34a5-d30c-4800-b6c1-bd7a664cea63
+    f01a71639aab4ed3: !<reference> 59ddb422-6f47-467c-8924-aabc3967a1c9
+    f823db1bcedba90c: !<reference> 83a9a291-173a-41a0-8149-c3aef91f25b7
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> d7df529a-d799-4ed2-92a5-d899126ae5ea
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> 666c6c76-bc28-45d5-adfc-3125b7d4819c
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings/3f908263-bf3b-467f-bfa3-44c323faf6fb>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitize
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings/053313f7-bfba-401d-abdc-a5ba94502a9c>
+    Presets:
+      None Compression: !<SingleCompressionSettings/6589b82d-6709-40a9-bde4-1e4b02a6e79d>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings/cae0549f-47c7-4def-a989-b783a445b290>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/d09707fb-a767-4f0c-b233-7de9211d252d>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<ObjectPrefab/01b63b99-78de-4ff6-9efe-9f661e6c5166>
+  PackagePath: ""
+  objects:
+    - !<own> 03e9d657-2138-4120-a77a-1f58d6286aa9
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/03e0b402-880d-41ed-abe9-0aa28ebc3064>
+  PrefabRemaps:
+    []
+  Name: Collada visual scene group.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -0.000000, z: 0.000000}
+    rotation: {x: 90.000023, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1ae37e0b-3ea0-402a-be82-f66a9c47b2bf
+  Components:
+    []
+- !<SceneObject/03e9d657-2138-4120-a77a-1f58d6286aa9>
+  PrefabRemaps:
+    []
+  Name: ARM_4st
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b84109e6-0015-461a-a063-6e5481885f04
+    - !<own> 2de55a8c-d605-4791-bfed-a562f6164148
+    - !<own> 9ee91525-8b28-44fe-b297-cb851f7c2704
+  Components:
+    []
+- !<SceneObject/1ae37e0b-3ea0-402a-be82-f66a9c47b2bf>
+  PrefabRemaps:
+    []
+  Name: g.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d8e3546c-aeeb-4526-a4a3-9296e3bdffb1
+  Components:
+    []
+- !<SceneObject/2de55a8c-d605-4791-bfed-a562f6164148>
+  PrefabRemaps:
+    []
+  Name: BézierCurve.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 1.148051, y: 32.183414, z: -6.086414}
+    rotation: {x: -139.947205, y: 29.772638, z: -120.569084}
+    scale: {x: 2.448580, y: 2.448580, z: 2.448580}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ef0b93da-2171-4c91-b635-f92e4ef92367
+- !<ObjectPrefabAssetData/666c6c76-bc28-45d5-adfc-3125b7d4819c>
+  SourceRemaps:
+    - 1349ea46-6814-457b-952e-bcb3191ed137: 03e9d657-2138-4120-a77a-1f58d6286aa9
+    - 2e77876f-cc07-46c1-bf1e-3913df516dfc: d8e3546c-aeeb-4526-a4a3-9296e3bdffb1
+    - 59ddb422-6f47-467c-8924-aabc3967a1c9: e77916c2-79a5-40c9-b171-b99676cce26a
+    - 66f3e9d6-85eb-4927-8fad-cee293dca197: 1ae37e0b-3ea0-402a-be82-f66a9c47b2bf
+    - 732d34a5-d30c-4800-b6c1-bd7a664cea63: 2de55a8c-d605-4791-bfed-a562f6164148
+    - 792dbe1c-f955-439e-915a-f99708101827: b84109e6-0015-461a-a063-6e5481885f04
+    - 83a9a291-173a-41a0-8149-c3aef91f25b7: ef0b93da-2171-4c91-b635-f92e4ef92367
+    - 9d1f1771-646e-4e2a-b081-496425480584: 9ee91525-8b28-44fe-b297-cb851f7c2704
+    - a878cb3d-9201-42a8-af69-bd257ea7e11c: 03e0b402-880d-41ed-abe9-0aa28ebc3064
+    - f76db6d0-d63d-4c7d-ba89-c197197417de: 9a9fbc5f-0448-42a0-8b03-570cd3a6bed8
+  SourceState: !<own> 01b63b99-78de-4ff6-9efe-9f661e6c5166
+- !<RenderMeshVisual/9a9fbc5f-0448-42a0-8b03-570cd3a6bed8>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08a8737-6dbb-4ffb-8530-0f67cf8ed551
+  Mesh: !<reference> 4291b99c-a95f-43ab-bfb3-1060eda8aa0d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/9ee91525-8b28-44fe-b297-cb851f7c2704>
+  PrefabRemaps:
+    []
+  Name: BézierCurve.003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.609897, y: 31.931038, z: -12.256054}
+    rotation: {x: -96.834351, y: 6.739089, z: -90.805832}
+    scale: {x: 3.336034, y: 2.541441, z: 3.008362}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e77916c2-79a5-40c9-b171-b99676cce26a
+- !<SceneObject/b84109e6-0015-461a-a063-6e5481885f04>
+  PrefabRemaps:
+    []
+  Name: arm_model.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.424078, y: 29.705811, z: -3.883989}
+    rotation: {x: 180.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 12.152490, y: 12.152492, z: 12.152492}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 03e0b402-880d-41ed-abe9-0aa28ebc3064
+  Components:
+    []
+- !<SceneObject/d8e3546c-aeeb-4526-a4a3-9296e3bdffb1>
+  PrefabRemaps:
+    []
+  Name: defaultMaterial.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -0.000000, z: -0.000000}
+    rotation: {x: -89.345222, y: 90.000000, z: 0.163702}
+    scale: {x: 3.961579, y: 3.961580, z: 3.961579}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9a9fbc5f-0448-42a0-8b03-570cd3a6bed8
+- !<RenderMeshVisual/e77916c2-79a5-40c9-b171-b99676cce26a>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b5576374-8559-4a35-8a62-e4eb208e8310
+  Mesh: !<reference> 3896e0db-0562-4199-993a-dafa19f3b14a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/ef0b93da-2171-4c91-b635-f92e4ef92367>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c976c5ef-a6d3-4faf-9583-3e9a80def576
+  Mesh: !<reference> 3dbc18dc-ccd8-453b-ae6f-26b70391f402
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

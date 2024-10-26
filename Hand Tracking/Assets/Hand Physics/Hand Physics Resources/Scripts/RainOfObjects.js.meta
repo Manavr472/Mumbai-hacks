@@ -1,0 +1,40 @@
+- !<AssetImportMetadata/6112cc79-a4d9-456e-a993-4a8cf01feaac>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> e067d791-7e22-4665-9d9f-1d2729b6abf0
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> e067d791-7e22-4665-9d9f-1d2729b6abf0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6068c52c-7f22-4bd2-8751-e2b8cd89d904
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/aebda137-235d-4159-9115-d2a46ffb12f8>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/6068c52c-7f22-4bd2-8751-e2b8cd89d904>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    interval: false
+    objectToSpawn: false
+    spawnHeight: false
+    spawnRadius: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - objectToSpawn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      interval: 0.500000
+      spawnRadius: !<float> 8.000000
+      spawnHeight: !<float> 20.000000
+  ScriptTypes:
+    -
+      {}

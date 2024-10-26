@@ -1,0 +1,30 @@
+{
+    "1729793118530032:76908": {
+        "IResourceController": {
+            "name": "new_platelet",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729793118529843:76884",
+            "fileId": "1729793118556188:76933",
+            "originalId": "1729799089124502:1332034",
+            "expected_hash": "78074c7a0947d233cd5dc3bbcc26340a"
+        },
+        "IResourceManager": {
+            "uid": "1729793118529843:76884",
+            "name": "new_platelet",
+            "flags": 0
+        }
+    },
+    "1729793118556188:76933": {
+        "IFileManager": {
+            "path": "Files/File_1729793118556188_76933.oprfb"
+        }
+    },
+    "1729799089124502:1332034": {
+        "IFileManager": {
+            "path": "Files/File_1729799089124502_1332034.oprfb"
+        }
+    }
+}

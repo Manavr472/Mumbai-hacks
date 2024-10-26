@@ -1,0 +1,22 @@
+{
+    "1729889169242804:1634370": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729889169243049:1634371",
+            "resources": [
+                "1729889169244225:1634372"
+            ]
+        }
+    },
+    "1729889169243049:1634371": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Textures"
+            }
+        }
+    }
+}

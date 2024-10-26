@@ -1,0 +1,24 @@
+{
+    "1729794989351236:329644": {
+        "IResourceController": {
+            "name": "Info Card [DELETE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729794989351538:329645",
+            "resources": [
+                "1729794989353000:329646",
+                "1729794989527384:329683",
+                "1729794989998545:329727"
+            ]
+        }
+    },
+    "1729794989351538:329645": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]"
+            }
+        }
+    }
+}

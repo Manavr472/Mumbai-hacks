@@ -1,0 +1,39 @@
+{
+    "1729887205169730:1095260": {
+        "IFileManager": {
+            "path": "Files/File_1729887205169730_1095260"
+        }
+    },
+    "1729887205174359:1095261": {
+        "IResourceController": {
+            "name": "Info Card Background",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729887205174368:1095262",
+            "fileId": "1729887205169730:1095260",
+            "originalId": "1729887205201001:1095268",
+            "publicId": "1729887205325524:1095277",
+            "expected_hash": "9bb9413e58847d1854dd399e5fa58e4a"
+        },
+        "IResourceManager": {
+            "uid": "1729887205174368:1095262",
+            "name": "Files/File_1729887205169730_1095260",
+            "flags": 1
+        }
+    },
+    "1729887205201001:1095268": {
+        "IFileManager": {
+            "path": "Files/File_1729887205201001_1095268.lsmat"
+        }
+    },
+    "1729887205325524:1095277": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Materials/Info Card Background.lsmat",
+                "hash": "dde7052059681074c13540b02e57e0a7"
+            }
+        }
+    }
+}

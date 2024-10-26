@@ -1,0 +1,22 @@
+{
+    "1729793121858523:80039": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729793122443109:80365",
+            "resources": [
+                "1729793121863160:80041"
+            ]
+        }
+    },
+    "1729793122443109:80365": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/RBC/Materials"
+            }
+        }
+    }
+}

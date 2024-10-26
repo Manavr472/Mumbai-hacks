@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/9af94e6a-1d23-4f91-a22c-c521e8c5a9d8>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a97eda4c-439b-4b43-a6c9-08f627bba75d
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a97eda4c-439b-4b43-a6c9-08f627bba75d
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> c1d6d04a-fba4-4abf-b62c-117223041624
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/e86a6156-db18-40df-971a-9fda50ef11ac>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/c1d6d04a-fba4-4abf-b62c-117223041624>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    maxScale: false
+    minScale: false
+    movementSpeed: false
+    outlineMaterial: false
+    smoothMovement: false
+    smoothingFactor: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - movementSpeed: 0.100000
+      outlineMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      maxScale: 1.500000
+      minScale: 0.500000
+      smoothMovement: true
+      smoothingFactor: 0.500000
+  ScriptTypes:
+    -
+      {}

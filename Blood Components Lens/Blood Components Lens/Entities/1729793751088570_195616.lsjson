@@ -1,0 +1,26 @@
+{
+    "1729793751088570:195616": {
+        "IResourceController": {
+            "name": "Hand Physics Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729793751088953:195617",
+            "resources": [
+                "1729793751090640:195618",
+                "1729793751109778:195636",
+                "1729793751330192:195659",
+                "1729793751619482:195732",
+                "1729793751652225:195752"
+            ]
+        }
+    },
+    "1729793751088953:195617": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources"
+            }
+        }
+    }
+}

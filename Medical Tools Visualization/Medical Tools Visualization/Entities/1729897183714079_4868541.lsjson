@@ -1,0 +1,39 @@
+{
+    "1729897183709674:4868540": {
+        "IFileManager": {
+            "path": "Files/File_1729897183709674_4868540"
+        }
+    },
+    "1729897183714079:4868541": {
+        "IResourceController": {
+            "name": "Joint",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897183714086:4868542",
+            "fileId": "1729897183709674:4868540",
+            "originalId": "1729897183737149:4868546",
+            "publicId": "1729897183895401:4868557",
+            "expected_hash": "05ac5a02fc87d03b18e7b8f531242fdb"
+        },
+        "IResourceManager": {
+            "uid": "1729897183714086:4868542",
+            "name": "Files/File_1729897183709674_4868540",
+            "flags": 1
+        }
+    },
+    "1729897183737149:4868546": {
+        "IFileManager": {
+            "path": "Files/File_1729897183737149_4868546.lsmat"
+        }
+    },
+    "1729897183895401:4868557": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Materials/Joint.lsmat",
+                "hash": "bf5265455b9f42b625d42e891a7abc71"
+            }
+        }
+    }
+}

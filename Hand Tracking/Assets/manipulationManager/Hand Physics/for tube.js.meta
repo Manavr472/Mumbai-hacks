@@ -1,0 +1,39 @@
+- !<AssetImportMetadata/5eccef88-f8d7-42d1-b8b2-0e30d280ba2a>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> e8dddfd4-571c-4b5e-90a2-fe0404c7e315
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> e8dddfd4-571c-4b5e-90a2-fe0404c7e315
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 04723e6d-2b75-4647-a137-e129a294c0b2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/a6e6e169-ec1b-44bf-aaa4-c1ad962304dd>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/04723e6d-2b75-4647-a137-e129a294c0b2>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    tube: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - tube: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      handTracking: !<reference.HandTracking> 00000000-0000-0000-0000-000000000000
+      deviceTracking: !<reference.DeviceTracking> 00000000-0000-0000-0000-000000000000
+      movementSpeed: 0.100000
+      pushThreshold: !<float> 2.000000
+      maxCylinderMovement: 0.500000
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,23 @@
+{
+    "1729887205091274:1095226": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729887205091545:1095227",
+            "resources": [
+                "1729887205071466:1095214",
+                "1729887205113408:1095236"
+            ]
+        }
+    },
+    "1729887205091545:1095227": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Textures"
+            }
+        }
+    }
+}

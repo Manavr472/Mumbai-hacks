@@ -1,0 +1,38 @@
+{
+    "1729889168116997:1633993": {
+        "IFileManager": {
+            "path": "Files/File_1729889168116997_1633993.js"
+        }
+    },
+    "1729889168121376:1633994": {
+        "IResourceController": {
+            "name": "TweenScaleFromTo",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729889168121396:1633995",
+            "fileId": "1729889168116997:1633993",
+            "publicId": "1729889168132943:1634007",
+            "expected_hash": "0da95919b74ebdbb762e6b6d22c2b10b"
+        },
+        "IResourceManager": {
+            "uid": "1729889168121396:1633995",
+            "name": "Files/File_1729889168116997_1633993.js",
+            "flags": 1
+        }
+    },
+    "1729889168121396:1633995": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729889168132943:1634007": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Scale/TweenScaleFromTo.js",
+                "hash": "0da95919b74ebdbb762e6b6d22c2b10b"
+            }
+        }
+    }
+}

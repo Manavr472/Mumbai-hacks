@@ -1,0 +1,38 @@
+{
+    "1729830124554661:603336": {
+        "IFileManager": {
+            "path": "Files/File_1729830124554661_603336.js"
+        }
+    },
+    "1729830124558920:603337": {
+        "IResourceController": {
+            "name": "ResumeTweenScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830124558937:603338",
+            "fileId": "1729830124554661:603336",
+            "publicId": "1729830124571075:603352",
+            "expected_hash": "66524982c0f0cb687df506b825ca5be1"
+        },
+        "IResourceManager": {
+            "uid": "1729830124558937:603338",
+            "name": "Files/File_1729830124554661_603336.js",
+            "flags": 1
+        }
+    },
+    "1729830124558937:603338": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830124571075:603352": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/TweenManager Nodes/ResumeTweenScript.js",
+                "hash": "66524982c0f0cb687df506b825ca5be1"
+            }
+        }
+    }
+}

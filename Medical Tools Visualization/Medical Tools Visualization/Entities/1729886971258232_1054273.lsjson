@@ -1,0 +1,116 @@
+{
+    "1729886971254554:1054269": {
+        "IFileManager": {
+            "path": "Files/File_1729886971254554_1054269.mesh"
+        }
+    },
+    "1729886971258232:1054273": {
+        "IResourceController": {
+            "name": "Tube 2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729886971272753:1054277",
+            "fileId": "1729886971254554:1054269",
+            "expected_hash": "33d6e07f55164c2bbf73db2c946cc26d",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1729886971272753:1054277",
+            "name": "Files/File_1729886971254554_1054269.mesh",
+            "flags": 1
+        }
+    },
+    "1729886971272753:1054277": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "52372",
+                "compressedSize": "26769",
+                "extension": "mesh",
+                "originalRAM": "52372",
+                "originalSize": "26769",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1729886972242163:1054792"
+        }
+    },
+    "1729886972242163:1054792": {
+        "IFileManager": {
+            "path": "Files/File_1729886972242163_1054792.mesh"
+        }
+    }
+}

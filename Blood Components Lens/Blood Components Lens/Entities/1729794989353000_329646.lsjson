@@ -1,0 +1,23 @@
+{
+    "1729794989353000:329646": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729794989353139:329647",
+            "resources": [
+                "1729794989333152:329632",
+                "1729794989431021:329653"
+            ]
+        }
+    },
+    "1729794989353139:329647": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Fonts"
+            }
+        }
+    }
+}

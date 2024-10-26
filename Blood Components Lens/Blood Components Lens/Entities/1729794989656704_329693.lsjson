@@ -1,0 +1,80 @@
+{
+    "1729794989652722:329692": {
+        "IFileManager": {
+            "path": "Files/File_1729794989652722_329692.pvr"
+        }
+    },
+    "1729794989656704:329693": {
+        "IResourceController": {
+            "name": "Icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729794989656916:329694",
+            "fileId": "1729794989652722:329692",
+            "originalId": "1729794989657339:329699",
+            "publicId": "1729794989690412:329708",
+            "expected_hash": "d587ad003ddcacb630785b89b0eb1295",
+            "additional": {
+                "originHash": "53be8b5ddce5c4296f4d3c446c9c7895",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1729794989656916:329694",
+            "name": "Files/File_1729794989652722_329692.jpg",
+            "flags": 1
+        }
+    },
+    "1729794989656916:329694": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "53be8b5ddce5c4296f4d3c446c9c7895"
+                    },
+                    "v": "1729794991702764:331015"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "3800",
+                "compressedSize": "1120",
+                "extension": "png",
+                "originalRAM": "29700",
+                "originalSize": "3900",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1729794989678952:329707"
+        }
+    },
+    "1729794989657339:329699": {
+        "IFileManager": {
+            "path": "Files/File_1729794989657339_329699.png"
+        }
+    },
+    "1729794989678952:329707": {
+        "IFileManager": {
+            "path": "Files/File_1729794989678952_329707.png"
+        }
+    },
+    "1729794989690412:329708": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Textures/Icon.png",
+                "hash": "53be8b5ddce5c4296f4d3c446c9c7895"
+            }
+        }
+    },
+    "1729794991702764:331015": {
+        "IFileManager": {
+            "path": "Files/File_1729794991702764_331015.pvr"
+        }
+    }
+}

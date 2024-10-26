@@ -1,0 +1,23 @@
+{
+    "1729903857740010:7768673": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729903858891860:7769119",
+            "resources": [
+                "1729903857744609:7768675",
+                "1729903858328601:7768850"
+            ]
+        }
+    },
+    "1729903858891860:7769119": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Info Card [DELETE_ME]/needle_syringe/Materials"
+            }
+        }
+    }
+}

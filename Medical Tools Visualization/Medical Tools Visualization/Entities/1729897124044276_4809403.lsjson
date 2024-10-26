@@ -1,0 +1,30 @@
+{
+    "1729897124044276:4809403": {
+        "IResourceController": {
+            "name": "scene",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729897124044187:4809379",
+            "fileId": "1729897124065793:4809423",
+            "originalId": "1729897480017022:5125842",
+            "expected_hash": "416b153d86734a059da7807bdea24b3b"
+        },
+        "IResourceManager": {
+            "uid": "1729897124044187:4809379",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1729897124065793:4809423": {
+        "IFileManager": {
+            "path": "Files/File_1729897124065793_4809423.oprfb"
+        }
+    },
+    "1729897480017022:5125842": {
+        "IFileManager": {
+            "path": "Files/File_1729897480017022_5125842.oprfb"
+        }
+    }
+}

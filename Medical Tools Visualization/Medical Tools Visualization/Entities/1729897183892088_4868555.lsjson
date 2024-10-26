@@ -1,0 +1,23 @@
+{
+    "1729897183892088:4868555": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729897183892371:4868556",
+            "resources": [
+                "1729897183714079:4868541",
+                "1729897183929779:4868573"
+            ]
+        }
+    },
+    "1729897183892371:4868556": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Materials"
+            }
+        }
+    }
+}

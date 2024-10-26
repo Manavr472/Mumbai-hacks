@@ -1,0 +1,38 @@
+{
+    "1729793724342611:190573": {
+        "IFileManager": {
+            "path": "Files/File_1729793724342611_190573.js"
+        }
+    },
+    "1729793724348901:190574": {
+        "IResourceController": {
+            "name": "manipulationManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729793724350538:190575",
+            "fileId": "1729793724342611:190573",
+            "publicId": "1729793724364456:190585",
+            "expected_hash": "1505050f3d53fc2893209c39f2db54ac"
+        },
+        "IResourceManager": {
+            "uid": "1729793724350538:190575",
+            "name": "Files/File_1729793724342611_190573.js",
+            "flags": 1
+        }
+    },
+    "1729793724350538:190575": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729793724364456:190585": {
+        "IResourceController": {
+            "public": {
+                "path": "manipulationManager.js",
+                "hash": "1505050f3d53fc2893209c39f2db54ac"
+            }
+        }
+    }
+}

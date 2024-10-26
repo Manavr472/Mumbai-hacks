@@ -1,0 +1,38 @@
+{
+    "1729889167614379:1633486": {
+        "IFileManager": {
+            "path": "Files/File_1729889167614379_1633486.js"
+        }
+    },
+    "1729889167619196:1633487": {
+        "IResourceController": {
+            "name": "BackFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729889167619225:1633488",
+            "fileId": "1729889167614379:1633486",
+            "publicId": "1729889167629334:1633498",
+            "expected_hash": "7eef5947bc3ea1f3c1315e8f4f4a0936"
+        },
+        "IResourceManager": {
+            "uid": "1729889167619225:1633488",
+            "name": "Files/File_1729889167614379_1633486.js",
+            "flags": 1
+        }
+    },
+    "1729889167619225:1633488": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729889167629334:1633498": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/BackFunc.js",
+                "hash": "7eef5947bc3ea1f3c1315e8f4f4a0936"
+            }
+        }
+    }
+}

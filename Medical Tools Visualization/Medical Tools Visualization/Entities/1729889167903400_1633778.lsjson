@@ -1,0 +1,38 @@
+{
+    "1729889167899637:1633777": {
+        "IFileManager": {
+            "path": "Files/File_1729889167899637_1633777.js"
+        }
+    },
+    "1729889167903400:1633778": {
+        "IResourceController": {
+            "name": "TweenSetEasing",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729889167903421:1633779",
+            "fileId": "1729889167899637:1633777",
+            "publicId": "1729889167913544:1633791",
+            "expected_hash": "b6a8a7179816951e9db9749cabe5d5bc"
+        },
+        "IResourceManager": {
+            "uid": "1729889167903421:1633779",
+            "name": "Files/File_1729889167899637_1633777.js",
+            "flags": 1
+        }
+    },
+    "1729889167903421:1633779": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729889167913544:1633791": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenSetEasing.js",
+                "hash": "b6a8a7179816951e9db9749cabe5d5bc"
+            }
+        }
+    }
+}

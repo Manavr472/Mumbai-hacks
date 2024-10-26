@@ -1,0 +1,39 @@
+{
+    "1729886971281854:1054290": {
+        "IFileManager": {
+            "path": "Files/File_1729886971281854_1054290"
+        }
+    },
+    "1729886971284953:1054291": {
+        "IResourceController": {
+            "name": "Parts",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729886971284958:1054292",
+            "fileId": "1729886971281854:1054290",
+            "originalId": "1729886971305662:1054301",
+            "publicId": "1729886972258245:1054800",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1729886971284958:1054292",
+            "name": "Files/File_1729886971281854_1054290",
+            "flags": 1
+        }
+    },
+    "1729886971305662:1054301": {
+        "IFileManager": {
+            "path": "Files/File_1729886971305662_1054301.lsmat"
+        }
+    },
+    "1729886972258245:1054800": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Stethoscope Curled Up/Materials/Parts.lsmat",
+                "hash": "05234bf142cfbf0a34991009250cf2e2"
+            }
+        }
+    }
+}

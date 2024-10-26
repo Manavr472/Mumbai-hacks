@@ -1,0 +1,22 @@
+{
+    "1729794989998545:329727": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729794989998852:329728",
+            "resources": [
+                "1729794989755447:329713"
+            ]
+        }
+    },
+    "1729794989998852:329728": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/Materials"
+            }
+        }
+    }
+}

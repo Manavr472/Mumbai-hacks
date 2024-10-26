@@ -1,0 +1,38 @@
+{
+    "1729889168016195:1633902": {
+        "IFileManager": {
+            "path": "Files/File_1729889168016195_1633902.js"
+        }
+    },
+    "1729889168022024:1633903": {
+        "IResourceController": {
+            "name": "TweenVec3",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729889168022051:1633904",
+            "fileId": "1729889168016195:1633902",
+            "publicId": "1729889168036075:1633914",
+            "expected_hash": "913156428e704276e2fb63733fba5a7d"
+        },
+        "IResourceManager": {
+            "uid": "1729889168022051:1633904",
+            "name": "Files/File_1729889168016195_1633902.js",
+            "flags": 1
+        }
+    },
+    "1729889168022051:1633904": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729889168036075:1633914": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Basic Tweens/TweenVec3.js",
+                "hash": "913156428e704276e2fb63733fba5a7d"
+            }
+        }
+    }
+}

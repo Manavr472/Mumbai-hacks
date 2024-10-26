@@ -1,0 +1,39 @@
+{
+    "1729897123632449:4809228": {
+        "IFileManager": {
+            "path": "Files/File_1729897123632449_4809228"
+        }
+    },
+    "1729897123635657:4809229": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897123635663:4809230",
+            "fileId": "1729897123632449:4809228",
+            "originalId": "1729897123655610:4809239",
+            "publicId": "1729897124108012:4809436",
+            "expected_hash": "20b64ecbdcf7e2b82c0aa29038627025"
+        },
+        "IResourceManager": {
+            "uid": "1729897123635663:4809230",
+            "name": "Files/File_1729897123632449_4809228",
+            "flags": 1
+        }
+    },
+    "1729897123655610:4809239": {
+        "IFileManager": {
+            "path": "Files/File_1729897123655610_4809239.lsmat"
+        }
+    },
+    "1729897124108012:4809436": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/scene/Materials/Material.lsmat",
+                "hash": "a2d88f152f37977a0312747ab531a918"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "1729897184119560:4868640": {
+        "IFileManager": {
+            "path": "Files/File_1729897184119560_4868640.mesh"
+        }
+    },
+    "1729897184123500:4868641": {
+        "IResourceController": {
+            "name": "Unit Box",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897184136247:4868645",
+            "fileId": "1729897184119560:4868640",
+            "publicId": "1729897184152609:4868657",
+            "expected_hash": "bac61f0447b825d93b25eb020dfe0e56",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1729897184136247:4868645",
+            "name": "Files/File_1729897184119560_4868640.mesh",
+            "flags": 1
+        }
+    },
+    "1729897184136247:4868645": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1224",
+                "compressedSize": "880",
+                "extension": "mesh",
+                "originalRAM": "1224",
+                "originalSize": "880",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1729897184144782:4868656"
+        }
+    },
+    "1729897184144782:4868656": {
+        "IFileManager": {
+            "path": "Files/File_1729897184144782_4868656.mesh"
+        }
+    },
+    "1729897184152609:4868657": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Models/Unit Box.mesh",
+                "hash": "bac61f0447b825d93b25eb020dfe0e56"
+            }
+        }
+    }
+}

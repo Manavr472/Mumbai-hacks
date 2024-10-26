@@ -1,0 +1,30 @@
+{
+    "1729793122370091:80323": {
+        "IResourceController": {
+            "name": "RBC",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1729793122369884:80288",
+            "fileId": "1729793122398174:80353",
+            "originalId": "1729799089158736:1332058",
+            "expected_hash": "2cebbb81b9967870c07c99f14695b0bf"
+        },
+        "IResourceManager": {
+            "uid": "1729793122369884:80288",
+            "name": "RBC",
+            "flags": 0
+        }
+    },
+    "1729793122398174:80353": {
+        "IFileManager": {
+            "path": "Files/File_1729793122398174_80353.oprfb"
+        }
+    },
+    "1729799089158736:1332058": {
+        "IFileManager": {
+            "path": "Files/File_1729799089158736_1332058.oprfb"
+        }
+    }
+}

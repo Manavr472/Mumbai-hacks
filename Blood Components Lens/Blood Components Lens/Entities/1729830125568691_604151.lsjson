@@ -1,0 +1,25 @@
+{
+    "1729830125568691:604151": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729830125568869:604152",
+            "resources": [
+                "1729830125426573:604135",
+                "1729830125600433:604160",
+                "1729830125826607:604177",
+                "1729830126052141:604201"
+            ]
+        }
+    },
+    "1729830125568869:604152": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1729887714796619:1189598": {
+        "IFileManager": {
+            "path": "Files/File_1729887714796619_1189598.pvr"
+        }
+    },
+    "1729887714802625:1189599": {
+        "IResourceController": {
+            "name": "medical tools",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729887714804006:1189600",
+            "fileId": "1729887714796619:1189598",
+            "originalId": "1729887714804809:1189605",
+            "publicId": "1729887714831624:1189612",
+            "expected_hash": "cea8e73acf39b754e09b56103afb54ec",
+            "additional": {
+                "originHash": "786fe1c38fdc07ce9d3fb9788f45a735"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1729887714804006:1189600",
+            "name": "Files/File_1729887714796619_1189598.png",
+            "flags": 1
+        }
+    },
+    "1729887714804006:1189600": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "786fe1c38fdc07ce9d3fb9788f45a735"
+                    },
+                    "v": "1729887715329383:1189965"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "25376",
+                "compressedSize": "14022",
+                "extension": "png",
+                "originalRAM": "201344",
+                "originalSize": "49359",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1729887714812957:1189606"
+        }
+    },
+    "1729887714804809:1189605": {
+        "IFileManager": {
+            "path": "Files/File_1729887714804809_1189605.png"
+        }
+    },
+    "1729887714812957:1189606": {
+        "IFileManager": {
+            "path": "Files/File_1729887714812957_1189606.png"
+        }
+    },
+    "1729887714831624:1189612": {
+        "IResourceController": {
+            "public": {
+                "path": "Info Card [DELETE_ME]/medical tools.png",
+                "hash": "786fe1c38fdc07ce9d3fb9788f45a735"
+            }
+        }
+    },
+    "1729887715329383:1189965": {
+        "IFileManager": {
+            "path": "Files/File_1729887715329383_1189965.pvr"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1729897183655685:4868512": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729897183655822:4868513",
+            "resources": [
+                "1729897183646401:4868499"
+            ]
+        }
+    },
+    "1729897183655822:4868513": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Fonts"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1729897184105749:4868632": {
+        "IResourceController": {
+            "name": "Models",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729897184105964:4868633",
+            "resources": [
+                "1729897184083525:4868616",
+                "1729897184123500:4868641",
+                "1729897184178060:4868680",
+                "1729897184263465:4868732"
+            ]
+        }
+    },
+    "1729897184105964:4868633": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Models"
+            }
+        }
+    }
+}

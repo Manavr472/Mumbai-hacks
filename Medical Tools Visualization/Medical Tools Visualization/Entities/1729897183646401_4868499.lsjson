@@ -1,0 +1,33 @@
+{
+    "1729897183641280:4868498": {
+        "IFileManager": {
+            "path": "Files/File_1729897183641280_4868498.ttf"
+        }
+    },
+    "1729897183646401:4868499": {
+        "IResourceController": {
+            "name": "jellee_roman",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897183646456:4868500",
+            "fileId": "1729897183641280:4868498",
+            "publicId": "1729897183658361:4868514",
+            "expected_hash": "09438cae5178fea614cfd0b16e719824"
+        },
+        "IResourceManager": {
+            "uid": "1729897183646456:4868500",
+            "name": "Files/File_1729897183641280_4868498.ttf",
+            "flags": 1
+        }
+    },
+    "1729897183658361:4868514": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Fonts/jellee_roman.ttf",
+                "hash": "09438cae5178fea614cfd0b16e719824"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1729886971280998:1054289": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729886972255569:1054799",
+            "resources": [
+                "1729886971284953:1054291",
+                "1729886971715467:1054396"
+            ]
+        }
+    },
+    "1729886972255569:1054799": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Stethoscope Curled Up/Materials"
+            }
+        }
+    }
+}

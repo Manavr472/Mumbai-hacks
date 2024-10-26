@@ -1,0 +1,38 @@
+{
+    "1729897184155613:4868661": {
+        "IFileManager": {
+            "path": "Files/File_1729897184155613_4868661.js"
+        }
+    },
+    "1729897184159531:4868662": {
+        "IResourceController": {
+            "name": "ToggleColliderVisibility",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897184159555:4868663",
+            "fileId": "1729897184155613:4868661",
+            "publicId": "1729897184169366:4868675",
+            "expected_hash": "a5a03feda63459959196d4f28dfbad4d"
+        },
+        "IResourceManager": {
+            "uid": "1729897184159555:4868663",
+            "name": "Files/File_1729897184155613_4868661.js",
+            "flags": 1
+        }
+    },
+    "1729897184159555:4868663": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729897184169366:4868675": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Scripts/ToggleColliderVisibility.js",
+                "hash": "a5a03feda63459959196d4f28dfbad4d"
+            }
+        }
+    }
+}

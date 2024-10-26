@@ -1,0 +1,38 @@
+{
+    "1729830125085614:603841": {
+        "IFileManager": {
+            "path": "Files/File_1729830125085614_603841.js"
+        }
+    },
+    "1729830125090274:603842": {
+        "IResourceController": {
+            "name": "TweenOnComplete",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830125090325:603843",
+            "fileId": "1729830125085614:603841",
+            "publicId": "1729830125100998:603853",
+            "expected_hash": "86001bf4925742011b8a5897ea15e708"
+        },
+        "IResourceManager": {
+            "uid": "1729830125090325:603843",
+            "name": "Files/File_1729830125085614_603841.js",
+            "flags": 1
+        }
+    },
+    "1729830125090325:603843": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830125100998:603853": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenOnComplete.js",
+                "hash": "86001bf4925742011b8a5897ea15e708"
+            }
+        }
+    }
+}

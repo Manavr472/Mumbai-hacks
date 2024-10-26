@@ -1,0 +1,17 @@
+- !<AnimationMixerLayer/ec0e1f1c-274f-41ef-8f81-1896e8e20f4b>
+  PackagePath: ""
+  Layer: JUMP_1_60
+  Name: JUMP_1_60
+  Weight: 0.000000
+  SpeedRatio: 1.000000
+  From: 0.000000
+  To: 2.033333
+  Offset: 0.000000
+  FPS: 30.000000
+  NumCycles: -1
+  Reversed: false
+  Disabled: false
+  PostInfinity: Cycle
+  BlendMode: Default
+  ScaleMode: Multiply
+  RangeType: TimeInSeconds

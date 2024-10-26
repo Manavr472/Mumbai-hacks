@@ -1,0 +1,38 @@
+{
+    "1729830125070317:603828": {
+        "IFileManager": {
+            "path": "Files/File_1729830125070317_603828.js"
+        }
+    },
+    "1729830125074537:603829": {
+        "IResourceController": {
+            "name": "TweenChainTo",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830125074561:603830",
+            "fileId": "1729830125070317:603828",
+            "publicId": "1729830125084491:603840",
+            "expected_hash": "3dbe7a4a7070fb62e10f9b7b903ad109"
+        },
+        "IResourceManager": {
+            "uid": "1729830125074561:603830",
+            "name": "Files/File_1729830125070317_603828.js",
+            "flags": 1
+        }
+    },
+    "1729830125074561:603830": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830125084491:603840": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Modifiers/TweenChainTo.js",
+                "hash": "3dbe7a4a7070fb62e10f9b7b903ad109"
+            }
+        }
+    }
+}

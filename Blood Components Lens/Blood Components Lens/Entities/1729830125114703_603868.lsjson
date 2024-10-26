@@ -1,0 +1,24 @@
+{
+    "1729830125114703:603868": {
+        "IResourceController": {
+            "name": "Basic Tweens",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729830125114968:603869",
+            "resources": [
+                "1729830125106075:603855",
+                "1729830125132684:603875",
+                "1729830125149981:603893"
+            ]
+        }
+    },
+    "1729830125114968:603869": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Basic Tweens"
+            }
+        }
+    }
+}

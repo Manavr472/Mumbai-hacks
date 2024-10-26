@@ -1,0 +1,38 @@
+{
+    "1729897184240755:4868718": {
+        "IFileManager": {
+            "path": "Files/File_1729897184240755_4868718.js"
+        }
+    },
+    "1729897184244789:4868719": {
+        "IResourceController": {
+            "name": "RainOfObjects",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897184244809:4868720",
+            "fileId": "1729897184240755:4868718",
+            "publicId": "1729897184254734:4868730",
+            "expected_hash": "672be937a028babca9cc98cf241b76a6"
+        },
+        "IResourceManager": {
+            "uid": "1729897184244809:4868720",
+            "name": "Files/File_1729897184240755_4868718.js",
+            "flags": 1
+        }
+    },
+    "1729897184244809:4868720": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729897184254734:4868730": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Scripts/RainOfObjects.js",
+                "hash": "672be937a028babca9cc98cf241b76a6"
+            }
+        }
+    }
+}

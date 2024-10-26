@@ -1,0 +1,50 @@
+{
+    "1729793120446748:79238": {
+        "IResourceController": {
+            "name": "RBC",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729793122411080:80359",
+            "publicId": "1729793122442479:80364",
+            "expected_hash": "b0d7f9df56bf367db7b00271cdf50c58",
+            "resources": [
+                "1729793121800134:80001",
+                "1729793121858523:80039",
+                "1729793122370091:80323"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1729793121863165:80042"
+                    }
+                ]
+            }
+        }
+    },
+    "1729793122411080:80359": {
+        "IFileManager": {
+            "path": "Files/File_1729793122411080_80359.fbx"
+        }
+    },
+    "1729793122442479:80364": {
+        "IResourceController": {
+            "public": {
+                "path": "RBC.fbx",
+                "hash": "b0d7f9df56bf367db7b00271cdf50c58"
+            }
+        }
+    }
+}

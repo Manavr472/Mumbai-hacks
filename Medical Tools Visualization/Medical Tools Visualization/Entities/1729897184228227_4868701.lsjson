@@ -1,0 +1,38 @@
+{
+    "1729897184224128:4868700": {
+        "IFileManager": {
+            "path": "Files/File_1729897184224128_4868700.js"
+        }
+    },
+    "1729897184228227:4868701": {
+        "IResourceController": {
+            "name": "HintTextUI",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897184228246:4868702",
+            "fileId": "1729897184224128:4868700",
+            "publicId": "1729897184237868:4868714",
+            "expected_hash": "3b1eedc91714127ca140bd6582692321"
+        },
+        "IResourceManager": {
+            "uid": "1729897184228246:4868702",
+            "name": "Files/File_1729897184224128_4868700.js",
+            "flags": 1
+        }
+    },
+    "1729897184228246:4868702": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729897184237868:4868714": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Scripts/HintTextUI.js",
+                "hash": "3b1eedc91714127ca140bd6582692321"
+            }
+        }
+    }
+}

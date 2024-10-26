@@ -1,0 +1,50 @@
+{
+    "1729792895624266:42697": {
+        "IResourceController": {
+            "name": "new_platelet",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1729793118565854:76934",
+            "publicId": "1729793118597123:76942",
+            "expected_hash": "3c89ff155c9d144ead93f5099b0f7963",
+            "resources": [
+                "1729793117945153:76638",
+                "1729793117972912:76659",
+                "1729793118530032:76908"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1729793117978055:76662"
+                    }
+                ]
+            }
+        }
+    },
+    "1729793118565854:76934": {
+        "IFileManager": {
+            "path": "Files/File_1729793118565854_76934.fbx"
+        }
+    },
+    "1729793118597123:76942": {
+        "IResourceController": {
+            "public": {
+                "path": "new_platelet.fbx",
+                "hash": "3c89ff155c9d144ead93f5099b0f7963"
+            }
+        }
+    }
+}

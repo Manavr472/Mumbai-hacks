@@ -1,0 +1,38 @@
+{
+    "1729897183661731:4868515": {
+        "IFileManager": {
+            "path": "Files/File_1729897183661731_4868515.js"
+        }
+    },
+    "1729897183666762:4868516": {
+        "IResourceController": {
+            "name": "HandTracking",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729897183666782:4868517",
+            "fileId": "1729897183661731:4868515",
+            "publicId": "1729897183682756:4868531",
+            "expected_hash": "837707fdd848c85e97f99cdbae54a32e"
+        },
+        "IResourceManager": {
+            "uid": "1729897183666782:4868517",
+            "name": "Files/File_1729897183661731_4868515.js",
+            "flags": 1
+        }
+    },
+    "1729897183666782:4868517": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729897183682756:4868531": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Scripts/HandTracking.js",
+                "hash": "837707fdd848c85e97f99cdbae54a32e"
+            }
+        }
+    }
+}

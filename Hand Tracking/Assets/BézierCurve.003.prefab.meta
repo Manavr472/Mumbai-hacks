@@ -1,0 +1,60 @@
+- !<AssetImportMetadata/8427f25c-f23c-44cd-8697-686056cc3404>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> d8d396ba-0fa1-4f56-b44c-2a92f3b2e45a
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> d8d396ba-0fa1-4f56-b44c-2a92f3b2e45a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 9d17e34e-8779-471b-a395-9c2c8872bf4f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/077cf0bc-6add-4e3a-ab39-9977df584e47>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefab/6e8f843f-c5e1-436d-853e-9fba0e5e01b2>
+  PackagePath: ""
+  objects:
+    - !<own> 7155349d-9e72-4b3c-882b-12a3fabff56a
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/7155349d-9e72-4b3c-882b-12a3fabff56a>
+  PrefabRemaps:
+    []
+  Name: BézierCurve.003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -2.145893, y: 29.143738, z: -13.521065}
+    rotation: {x: 53.205421, y: 68.214668, z: 63.396347}
+    scale: {x: 3.336034, y: 2.541441, z: 3.008362}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ec9f690e-7dfe-4816-b756-ea1a5ce330e5
+- !<ObjectPrefabAssetData/9d17e34e-8779-471b-a395-9c2c8872bf4f>
+  SourceRemaps:
+    - af2c0800-7321-4011-bf89-30161223ad6b: ec9f690e-7dfe-4816-b756-ea1a5ce330e5
+    - e7a79cf1-9cbe-432e-8cad-f03dbfa35f76: 7155349d-9e72-4b3c-882b-12a3fabff56a
+  SourceState: !<own> 6e8f843f-c5e1-436d-853e-9fba0e5e01b2
+- !<RenderMeshVisual/ec9f690e-7dfe-4816-b756-ea1a5ce330e5>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b5576374-8559-4a35-8a62-e4eb208e8310
+  Mesh: !<reference> 3896e0db-0562-4199-993a-dafa19f3b14a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

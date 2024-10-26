@@ -1,0 +1,38 @@
+{
+    "1729830124460819:603282": {
+        "IFileManager": {
+            "path": "Files/File_1729830124460819_603282.js"
+        }
+    },
+    "1729830124465587:603283": {
+        "IResourceController": {
+            "name": "TweenTransform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830124465606:603284",
+            "fileId": "1729830124460819:603282",
+            "publicId": "1729830124485554:603296",
+            "expected_hash": "7786f78e9bb2fd315e3786c72e87630a"
+        },
+        "IResourceManager": {
+            "uid": "1729830124465606:603284",
+            "name": "Files/File_1729830124460819_603282.js",
+            "flags": 1
+        }
+    },
+    "1729830124465606:603284": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729830124485554:603296": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenTransform.js",
+                "hash": "7786f78e9bb2fd315e3786c72e87630a"
+            }
+        }
+    }
+}

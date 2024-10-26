@@ -1,0 +1,41 @@
+- !<ObjectPrefab/d8d396ba-0fa1-4f56-b44c-2a92f3b2e45a>
+  PackagePath: ""
+  objects:
+    - !<own> e7a79cf1-9cbe-432e-8cad-f03dbfa35f76
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/af2c0800-7321-4011-bf89-30161223ad6b>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b5576374-8559-4a35-8a62-e4eb208e8310
+  Mesh: !<reference> 3896e0db-0562-4199-993a-dafa19f3b14a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e7a79cf1-9cbe-432e-8cad-f03dbfa35f76>
+  PrefabRemaps:
+    []
+  Name: BézierCurve.003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -2.145893, y: 29.143738, z: -13.521065}
+    rotation: {x: 53.205421, y: 68.214668, z: 63.396347}
+    scale: {x: 3.336034, y: 2.541441, z: 3.008362}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> af2c0800-7321-4011-bf89-30161223ad6b

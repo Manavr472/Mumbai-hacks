@@ -1,0 +1,39 @@
+{
+    "1729830125422226:604134": {
+        "IFileManager": {
+            "path": "Files/File_1729830125422226_604134"
+        }
+    },
+    "1729830125426573:604135": {
+        "IResourceController": {
+            "name": "Image Unlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729830125427033:604136",
+            "fileId": "1729830125422226:604134",
+            "originalId": "1729830125447508:604142",
+            "publicId": "1729830125571742:604153",
+            "expected_hash": "be917b6221599ab136249b07f12d7ad6"
+        },
+        "IResourceManager": {
+            "uid": "1729830125427033:604136",
+            "name": "Files/File_1729830125422226_604134",
+            "flags": 1
+        }
+    },
+    "1729830125447508:604142": {
+        "IFileManager": {
+            "path": "Files/File_1729830125447508_604142.lsmat"
+        }
+    },
+    "1729830125571742:604153": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/Materials/Image Unlit.lsmat",
+                "hash": "fcb7ff5572bc7a67a784c92b3f57324c"
+            }
+        }
+    }
+}

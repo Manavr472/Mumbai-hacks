@@ -1,0 +1,43 @@
+- !<ObjectPrefab/1ae16267-bcb7-40d1-88b1-a99dbff5e4b9>
+  PackagePath: ""
+  objects:
+    - !<own> f20d23d2-b94d-43cd-878d-00d854078a56
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/b6ef8713-c6be-4abe-8a99-fa88cab82445>
+  PrefabRemaps:
+    []
+  Name: manipulationManager
+  Enabled: true
+  ScriptAsset: !<reference> 9024184d-16c1-4c90-b92f-0ccad0342906
+  ScriptInputsDefault:
+    maxScale: true
+    minScale: true
+    maxDistance: true
+    movementSpeed: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      maxScale: 1.500000
+      minScale: 0.500000
+      maxDistance: !<float> 30.000000
+      movementSpeed: 0.100000
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/f20d23d2-b94d-43cd-878d-00d854078a56>
+  PrefabRemaps:
+    []
+  Name: manipulationManager
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b6ef8713-c6be-4abe-8a99-fa88cab82445

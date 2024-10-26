@@ -1,0 +1,37 @@
+studioVersion:
+  major: 5
+  minor: 1
+  patch: 1
+  build: 24092500
+updateCheckpoint: 48
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: No Simulation
+    cameraFov: 66.519997
+    fullFrameAspect: nan
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Unknown
+  cameraType: Back
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Vien and Arteries
+  lensDescriptors:
+    - GEN_AI_ICON
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  iconHash: 46fdc6ea74bd4fd151ea50267ee40b14
+  videoPreviewHash: 2ea50cfa0ce15b5c8e5655cbcb2e7a8a
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.1.1.24092500
+  activationCamera: Front
+  sourceMapEnabled: false

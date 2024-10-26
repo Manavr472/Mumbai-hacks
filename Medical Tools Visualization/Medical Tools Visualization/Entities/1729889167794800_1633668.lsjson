@@ -1,0 +1,23 @@
+{
+    "1729889167794800:1633668": {
+        "IResourceController": {
+            "name": "Helpers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1729889167795076:1633669",
+            "resources": [
+                "1729889167786629:1633657",
+                "1729889167803700:1633672"
+            ]
+        }
+    },
+    "1729889167795076:1633669": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Helpers"
+            }
+        }
+    }
+}

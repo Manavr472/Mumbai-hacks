@@ -1,0 +1,38 @@
+{
+    "1729889167782180:1633656": {
+        "IFileManager": {
+            "path": "Files/File_1729889167782180_1633656.js"
+        }
+    },
+    "1729889167786629:1633657": {
+        "IResourceController": {
+            "name": "RetrieveTween",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1729889167786651:1633658",
+            "fileId": "1729889167782180:1633656",
+            "publicId": "1729889167798592:1633670",
+            "expected_hash": "b24dce2affed9feae8016465c1fac10d"
+        },
+        "IResourceManager": {
+            "uid": "1729889167786651:1633658",
+            "name": "Files/File_1729889167782180_1633656.js",
+            "flags": 1
+        }
+    },
+    "1729889167786651:1633658": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1729889167798592:1633670": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/Helpers/RetrieveTween.js",
+                "hash": "b24dce2affed9feae8016465c1fac10d"
+            }
+        }
+    }
+}
